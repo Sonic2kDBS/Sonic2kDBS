@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bash, Python, AI and Coffee
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on interesting ideas
-- 📫 How to reach me: e-mail sonic2k@yahoo.com, Telegram @Sonic2k
+- 📫 How to reach me: e-mail sonic2k@yahoo.com, Telegram @Sonic2k t.me/sonic2k
 - 🦊 Also, I am Furry and Computer expert
 
 <!---
