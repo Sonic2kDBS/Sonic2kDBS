@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sonic2k @Sonic2kDBS
+- 👋 Hi, I’m Sonic2k, @Sonic2kDBS
 - 👀 I’m interested in Bash, Python, AI and Coffee
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on interesting ideas
